@@ -9,7 +9,7 @@
   <meta name="description" content="">
   <meta name="author" content="">
 
-  <title>Admin Login</title>
+  <title>Admin Login Panel</title>
 
   <!-- Custom fonts for this template-->
   <link href="{{ asset('backend/admin')}}/vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
